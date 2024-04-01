@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Being Gay","Bako is a furry!!!","Helping People since 2024!","The only furry in this world is bako!","THE ACCUSATIONS ARE TRUE!!!","Bako just combatlogged! BAN!!!","The dogs.","Robby, kindly fuck off.","The person closest to me has to run from me. 3.. 2.. 1.. GO!"];
+const statusMessages = ["Being Gay","Bako is a furry!!!","Helping People since 2024!","The only furry in this world is bako!","THE ACCUSATIONS ARE TRUE!!!","Bako just combatlogged! BAN!!!","The dogs.","Robby, kindly frick off.","The person closest to me has to run from me. 3.. 2.. 1.. GO!"];
 
 
 let currentIndex = 0;
